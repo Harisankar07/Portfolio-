@@ -40,13 +40,13 @@ Graphic design student with a love for creative challenges and strong communicat
 <p><font size="6" color="White" face="timesnewroman"><b>Mini Projects </b></p>
 <p><font size="6" color="White" face="timesnewroman">
 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject 1 :<font color="white"> Hobo <br>
+Project 1 :<font color="white"> Hobo <br>
 
-&nbsp&nbsp<font size="5" color="grey"> HOBO is a name that represent homeless people. An social welfare project, which will act as bridge between homeless people and the social welfare organization.Saving the people who suffer from starvation is a duty of every citizen. And these is the core idea of this project, the advantage in this HOBO is every citizen in this country can save the helpless people. They just have login into our website and give the location of the homeless people and the contact details, within 10 or 15 min the social worker will come and save the helpless people.<br>
+<font size="5" color="grey"> HOBO is a name that represent homeless people. An social welfare project, which will act as bridge between homeless people and the social welfare organization.Saving the people who suffer from starvation is a duty of every citizen. And these is the core idea of this project, the advantage in this HOBO is every citizen in this country can save the helpless people. They just have login into our website and give the location of the homeless people and the contact details, within 10 or 15 min the social worker will come and save the helpless people.<br>
 
 <p><font size="6" color="White" face="timesnewroman">
 
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbspProject 2 :<font color="white"> Evolution Favela <br>
+Project 2 :<font color="white"> Evolution Favela <br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
 &nbsp&nbsp <font size="5" color="grey">Evolution is the term use to represent the growth of an particular incident. Favela is place in Brazil, where people who use to live in slum, change their surrounding into an neat and safe envorinment, and they did this without the government help. So taking that as an inspiration, Evolution Favela is created. People on;y value something that they own on their work. Making the slum people to change their envorinment is the main motive of this project.<br><br>
 &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
